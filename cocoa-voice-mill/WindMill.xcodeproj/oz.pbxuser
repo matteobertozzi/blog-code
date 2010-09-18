@@ -1,0 +1,305 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* VoiceMillAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 415}}";
+			sepNavSelRange = "{27, 0}";
+			sepNavVisRange = "{0, 491}";
+		};
+	};
+	1D3623250D0F684500981E51 /* VoiceMillAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 476}}";
+			sepNavSelRange = "{117, 0}";
+			sepNavVisRange = "{0, 620}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* WindMill */ = {
+		activeExec = 0;
+		executables = (
+			2D5A96E710498645005E66A2 /* WindMill */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* VoiceMillViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 415}}";
+			sepNavSelRange = "{487, 0}";
+			sepNavVisRange = "{0, 487}";
+			sepNavWindowFrame = "{{38, 199}, {815, 553}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* VoiceMillViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 1414}}";
+			sepNavSelRange = "{120, 0}";
+			sepNavVisRange = "{0, 674}";
+			sepNavWindowFrame = "{{15, 220}, {815, 553}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2D5A96E710498645005E66A2 /* WindMill */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* WindMill */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* WindMill */,
+		);
+		codeSenseManager = 2D5A96F910498657005E66A2 /* Code sense */;
+		executables = (
+			2D5A96E710498645005E66A2 /* WindMill */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					596,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					324,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 273260846;
+			PBXWorkspaceStateSaveDate = 273260846;
+		};
+		perUserProjectItems = {
+			2D23579710499E2100B17AF9 /* PBXTextBookmark */ = 2D23579710499E2100B17AF9 /* PBXTextBookmark */;
+			2D2357A61049A0EE00B17AF9 /* PBXTextBookmark */ = 2D2357A61049A0EE00B17AF9 /* PBXTextBookmark */;
+			2D2357A71049A0EE00B17AF9 /* PBXTextBookmark */ = 2D2357A71049A0EE00B17AF9 /* PBXTextBookmark */;
+			2D2357A81049A0EE00B17AF9 /* PBXTextBookmark */ = 2D2357A81049A0EE00B17AF9 /* PBXTextBookmark */;
+			2D2357A91049A0EE00B17AF9 /* PBXTextBookmark */ = 2D2357A91049A0EE00B17AF9 /* PBXTextBookmark */;
+			2D2357AA1049A0EE00B17AF9 /* PBXTextBookmark */ = 2D2357AA1049A0EE00B17AF9 /* PBXTextBookmark */;
+			2D2357B01049A0EE00B17AF9 /* PBXTextBookmark */ = 2D2357B01049A0EE00B17AF9 /* PBXTextBookmark */;
+			2D5A971F10498C3F005E66A2 /* PBXTextBookmark */ = 2D5A971F10498C3F005E66A2 /* PBXTextBookmark */;
+			2D5A972010498C3F005E66A2 /* PBXTextBookmark */ = 2D5A972010498C3F005E66A2 /* PBXTextBookmark */;
+			2D5A972110498C3F005E66A2 /* PBXTextBookmark */ = 2D5A972110498C3F005E66A2 /* PBXTextBookmark */;
+			2D5A972610498C3F005E66A2 /* PBXTextBookmark */ = 2D5A972610498C3F005E66A2 /* PBXTextBookmark */;
+			2D5A972F10498C3F005E66A2 /* PBXTextBookmark */ = 2D5A972F10498C3F005E66A2 /* PBXTextBookmark */;
+			2DCD18A11049A136005CD00A /* PBXTextBookmark */ = 2DCD18A11049A136005CD00A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2D5A96F810498657005E66A2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2D23579710499E2100B17AF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* VoiceMillAppDelegate.h */;
+		name = "WindMillAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 118;
+		rType = 0;
+		vrLen = 486;
+		vrLoc = 0;
+	};
+	2D2357A61049A0EE00B17AF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* VoiceMillAppDelegate.h */;
+		name = "VoiceMillAppDelegate.h: 2";
+		rLen = 0;
+		rLoc = 27;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 0;
+	};
+	2D2357A71049A0EE00B17AF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* VoiceMillAppDelegate.m */;
+		name = "VoiceMillAppDelegate.m: 6";
+		rLen = 0;
+		rLoc = 117;
+		rType = 0;
+		vrLen = 620;
+		vrLoc = 0;
+	};
+	2D2357A81049A0EE00B17AF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* VoiceMillViewController.h */;
+		name = "VoiceMillViewController.h: 26";
+		rLen = 0;
+		rLoc = 487;
+		rType = 0;
+		vrLen = 487;
+		vrLoc = 0;
+	};
+	2D2357A91049A0EE00B17AF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* VoiceMillViewController.m */;
+		name = "VoiceMillViewController.m: 6";
+		rLen = 0;
+		rLoc = 120;
+		rType = 0;
+		vrLen = 674;
+		vrLoc = 0;
+	};
+	2D2357AA1049A0EE00B17AF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2D5A96FB10498688005E66A2 /* VoiceMillView.h */;
+		name = "VoiceMillView.h: 21";
+		rLen = 0;
+		rLoc = 299;
+		rType = 0;
+		vrLen = 299;
+		vrLoc = 0;
+	};
+	2D2357B01049A0EE00B17AF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2D5A96FC10498688005E66A2 /* VoiceMillView.m */;
+		name = "VoiceMillView.m: 100";
+		rLen = 0;
+		rLoc = 3492;
+		rType = 0;
+		vrLen = 986;
+		vrLoc = 0;
+	};
+	2D5A96E710498645005E66A2 /* WindMill */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = WindMill;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	2D5A96F810498657005E66A2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	2D5A96F910498657005E66A2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2D5A96FB10498688005E66A2 /* VoiceMillView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 415}}";
+			sepNavSelRange = "{299, 0}";
+			sepNavVisRange = "{0, 299}";
+			sepNavWindowFrame = "{{38, 199}, {815, 553}}";
+		};
+	};
+	2D5A96FC10498688005E66A2 /* VoiceMillView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 1498}}";
+			sepNavSelRange = "{3492, 0}";
+			sepNavVisRange = "{0, 986}";
+			sepNavWindowFrame = "{{15, 220}, {815, 553}}";
+		};
+	};
+	2D5A971F10498C3F005E66A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* VoiceMillViewController.m */;
+		name = "WindMillViewController.m: 24";
+		rLen = 0;
+		rLoc = 557;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 496;
+	};
+	2D5A972010498C3F005E66A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* VoiceMillAppDelegate.m */;
+		name = "WindMillAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 619;
+		vrLoc = 0;
+	};
+	2D5A972110498C3F005E66A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* VoiceMillViewController.h */;
+		name = "WindMillViewController.h: 13";
+		rLen = 0;
+		rLoc = 477;
+		rType = 0;
+		vrLen = 312;
+		vrLoc = 0;
+	};
+	2D5A972610498C3F005E66A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2D5A96FB10498688005E66A2 /* VoiceMillView.h */;
+		name = "WindMillView.h: 17";
+		rLen = 0;
+		rLoc = 299;
+		rType = 0;
+		vrLen = 214;
+		vrLoc = 0;
+	};
+	2D5A972F10498C3F005E66A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2D5A96FC10498688005E66A2 /* VoiceMillView.m */;
+		name = "WindMillView.m: 23";
+		rLen = 0;
+		rLoc = 2494;
+		rType = 0;
+		vrLen = 439;
+		vrLoc = 0;
+	};
+	2DCD18A11049A136005CD00A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2D5A96FC10498688005E66A2 /* VoiceMillView.m */;
+		name = "VoiceMillView.m: 100";
+		rLen = 0;
+		rLoc = 3492;
+		rType = 0;
+		vrLen = 986;
+		vrLoc = 0;
+	};
+	8D1107310486CEB800E47090 /* WindMill-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{61, 178}, {815, 553}}";
+		};
+	};
+}

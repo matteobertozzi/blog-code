@@ -1,0 +1,375 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* UdpVoiceAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {816, 299}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 486}";
+		};
+	};
+	1D3623250D0F684500981E51 /* UdpVoiceAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {873, 1313}}";
+			sepNavSelRange = "{1685, 0}";
+			sepNavVisRange = "{2505, 364}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* UdpVoice */ = {
+		activeExec = 0;
+		executables = (
+			2D89802311E8B20B00E08CCF /* UdpVoice */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* UdpVoiceViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {816, 520}}";
+			sepNavSelRange = "{501, 0}";
+			sepNavVisRange = "{307, 367}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* UdpVoiceViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 1508}}";
+			sepNavSelRange = "{1112, 0}";
+			sepNavVisRange = "{2072, 448}";
+			sepNavWindowFrame = "{{15, 46}, {604, 731}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2D89802311E8B20B00E08CCF /* UdpVoice */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* UdpVoice */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* UdpVoice */,
+		);
+		breakpoints = (
+			2D75B9D211FAE11800703ECF /* UdpVoiceAppDelegate.m:94 */,
+		);
+		codeSenseManager = 2D89802F11E8B21C00E08CCF /* Code sense */;
+		executables = (
+			2D89802311E8B20B00E08CCF /* UdpVoice */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					638,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					613,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 301670041;
+			PBXWorkspaceStateSaveDate = 301670041;
+		};
+		perUserProjectItems = {
+			2D3EBBDC11E8E0E400EF0242 /* PBXTextBookmark */ = 2D3EBBDC11E8E0E400EF0242 /* PBXTextBookmark */;
+			2D4DE23811EE3EAD007566C2 /* PBXTextBookmark */ = 2D4DE23811EE3EAD007566C2 /* PBXTextBookmark */;
+			2D7327F811EE395D0007925E /* PBXBookmark */ = 2D7327F811EE395D0007925E /* PBXBookmark */;
+			2D75BA6411FAE8CB00703ECF /* PBXTextBookmark */ = 2D75BA6411FAE8CB00703ECF /* PBXTextBookmark */;
+			2D77E30411EA357200953BF1 /* PBXTextBookmark */ = 2D77E30411EA357200953BF1 /* PBXTextBookmark */;
+			2D7C1C1811EE4658006B21CE /* PBXTextBookmark */ = 2D7C1C1811EE4658006B21CE /* PBXTextBookmark */;
+			2D7C1C1C11EE468F006B21CE /* PBXTextBookmark */ = 2D7C1C1C11EE468F006B21CE /* PBXTextBookmark */;
+			2D85484411FB2645001A4582 /* PBXTextBookmark */ = 2D85484411FB2645001A4582 /* PBXTextBookmark */;
+			2D85486B11FB29CB001A4582 /* PBXTextBookmark */ = 2D85486B11FB29CB001A4582 /* PBXTextBookmark */;
+			2D85486C11FB29CB001A4582 /* PBXTextBookmark */ = 2D85486C11FB29CB001A4582 /* PBXTextBookmark */;
+			2D85486D11FB29CB001A4582 /* PBXTextBookmark */ = 2D85486D11FB29CB001A4582 /* PBXTextBookmark */;
+			2D85486F11FB29CB001A4582 /* PBXTextBookmark */ = 2D85486F11FB29CB001A4582 /* PBXTextBookmark */;
+			2D89823211E8D13600E08CCF /* PlistBookmark */ = 2D89823211E8D13600E08CCF /* PlistBookmark */;
+			2DAD9ACE11F19E0F00FE93F0 /* PBXTextBookmark */ = 2DAD9ACE11F19E0F00FE93F0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2D89802E11E8B21C00E08CCF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2D3EBB7011E8D92D00EF0242 /* AVAudioRecorder.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AVAudioRecorder.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioRecorder.h;
+		sourceTree = "<absolute>";
+	};
+	2D3EBB9111E8DB5500EF0242 /* AudioRecorder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {816, 520}}";
+			sepNavSelRange = "{553, 0}";
+			sepNavVisRange = "{0, 459}";
+		};
+	};
+	2D3EBB9211E8DB5500EF0242 /* AudioRecorder.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {816, 1326}}";
+			sepNavSelRange = "{1002, 0}";
+			sepNavVisRange = "{2991, 383}";
+			sepNavWindowFrame = "{{15, 46}, {604, 731}}";
+		};
+	};
+	2D3EBBDC11E8E0E400EF0242 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2D3EBB7011E8D92D00EF0242 /* AVAudioRecorder.h */;
+		name = "AVAudioRecorder.h: 18";
+		rLen = 0;
+		rLoc = 434;
+		rType = 0;
+		vrLen = 1127;
+		vrLoc = 231;
+	};
+	2D4DE21311EE3D1E007566C2 /* udpaudio.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = udpaudio.h;
+		path = /Users/oz/Desktop/UdpAudio/udpaudio.h;
+		sourceTree = "<absolute>";
+	};
+	2D4DE23811EE3EAD007566C2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2D4DE23911EE3EAD007566C2 /* fcntl.h */;
+		name = "fcntl.h: 427";
+		rLen = 57;
+		rLoc = 16103;
+		rType = 0;
+		vrLen = 945;
+		vrLoc = 15801;
+	};
+	2D4DE23911EE3EAD007566C2 /* fcntl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = fcntl.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/fcntl.h;
+		sourceTree = "<absolute>";
+	};
+	2D7327F811EE395D0007925E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2D89810F11E8C36E00E08CCF /* mic.jpg */;
+	};
+	2D75B9D211FAE11800703ECF /* UdpVoiceAppDelegate.m:94 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* UdpVoiceAppDelegate.m */;
+		functionName = "-dealloc";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 94;
+		location = UdpVoice;
+		modificationTime = 301672806.444256;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	2D75BA6411FAE8CB00703ECF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* UdpVoiceAppDelegate.m */;
+		name = "UdpVoiceAppDelegate.m: 53";
+		rLen = 0;
+		rLoc = 1685;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 2505;
+	};
+	2D77E30111EA34B200953BF1 /* qaudio_mac.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = qaudio_mac.cpp;
+		path = /Users/oz/Projects/qt/src/multimedia/audio/qaudio_mac.cpp;
+		sourceTree = "<absolute>";
+	};
+	2D77E30411EA357200953BF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2D77E30111EA34B200953BF1 /* qaudio_mac.cpp */;
+		name = "qaudio_mac.cpp: 82";
+		rLen = 27;
+		rLoc = 2762;
+		rType = 0;
+		vrLen = 1060;
+		vrLoc = 2734;
+	};
+	2D7C1C1811EE4658006B21CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2D4DE21311EE3D1E007566C2 /* udpaudio.h */;
+		name = "udpaudio.h: 8";
+		rLen = 0;
+		rLoc = 113;
+		rType = 0;
+		vrLen = 613;
+		vrLoc = 0;
+	};
+	2D7C1C1C11EE468F006B21CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2D83999711EE43E30019F182 /* udpaudio.cpp */;
+		name = "udpaudio.cpp: 131";
+		rLen = 0;
+		rLoc = 3668;
+		rType = 0;
+		vrLen = 779;
+		vrLoc = 3071;
+	};
+	2D83999711EE43E30019F182 /* udpaudio.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = udpaudio.cpp;
+		path = /Users/oz/Desktop/UdpAudio/udpaudio.cpp;
+		sourceTree = "<absolute>";
+	};
+	2D85484411FB2645001A4582 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* UdpVoiceViewController.m */;
+		name = "UdpVoiceViewController.m: 65";
+		rLen = 0;
+		rLoc = 1828;
+		rType = 0;
+		vrLen = 462;
+		vrLoc = 1448;
+	};
+	2D85486B11FB29CB001A4582 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2D3EBB9111E8DB5500EF0242 /* AudioRecorder.h */;
+		name = "AudioRecorder.h: 20";
+		rLen = 0;
+		rLoc = 553;
+		rType = 0;
+		vrLen = 459;
+		vrLoc = 0;
+	};
+	2D85486C11FB29CB001A4582 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2D3EBB9211E8DB5500EF0242 /* AudioRecorder.m */;
+		name = "AudioRecorder.m: 30";
+		rLen = 0;
+		rLoc = 1002;
+		rType = 0;
+		vrLen = 383;
+		vrLoc = 2991;
+	};
+	2D85486D11FB29CB001A4582 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* UdpVoiceViewController.h */;
+		name = "UdpVoiceViewController.h: 24";
+		rLen = 0;
+		rLoc = 501;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 307;
+	};
+	2D85486F11FB29CB001A4582 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* UdpVoiceViewController.m */;
+		name = "UdpVoiceViewController.m: 65";
+		rLen = 0;
+		rLoc = 1828;
+		rType = 0;
+		vrLen = 260;
+		vrLoc = 3262;
+	};
+	2D89802311E8B20B00E08CCF /* UdpVoice */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = UdpVoice;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	2D89802E11E8B21C00E08CCF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2D89802F11E8B21C00E08CCF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2D89823211E8D13600E08CCF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* UdpVoice-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSMainNibFile,
+		);
+		name = "/Users/oz/Projects/iPhone-Apps/UdpVoice/UdpVoice-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	2DAD9ACE11F19E0F00FE93F0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* UdpVoiceAppDelegate.h */;
+		name = "UdpVoiceAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 486;
+		vrLoc = 0;
+	};
+	8D1107310486CEB800E47090 /* UdpVoice-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 46}, {604, 731}}";
+		};
+	};
+}
