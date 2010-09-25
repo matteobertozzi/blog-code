@@ -1,0 +1,204 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* MotionViewerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1170}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 723}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MotionViewer */ = {
+		activeExec = 0;
+		executables = (
+			2D820220124DCAF400B37D25 /* MotionViewer */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MotionViewerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 715}}";
+			sepNavSelRange = "{306, 1229}";
+			sepNavVisRange = "{36, 996}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MotionViewerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 1521}}";
+			sepNavSelRange = "{4678, 1}";
+			sepNavVisRange = "{3838, 888}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2D820220124DCAF400B37D25 /* MotionViewer */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MotionViewer */;
+		codeSenseManager = 2D820229124DCAFA00B37D25 /* Code sense */;
+		executables = (
+			2D820220124DCAF400B37D25 /* MotionViewer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					653,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					613,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 307097172;
+			PBXWorkspaceStateSaveDate = 307097172;
+		};
+		perUserProjectItems = {
+			2D8202A3124DE0AC00B37D25 /* PBXTextBookmark */ = 2D8202A3124DE0AC00B37D25 /* PBXTextBookmark */;
+			2D8202A4124DE0AC00B37D25 /* PBXTextBookmark */ = 2D8202A4124DE0AC00B37D25 /* PBXTextBookmark */;
+			2D8202A6124DE0AC00B37D25 /* PBXTextBookmark */ = 2D8202A6124DE0AC00B37D25 /* PBXTextBookmark */;
+			2DD75371124DEE2E002C353E /* PBXTextBookmark */ = 2DD75371124DEE2E002C353E /* PBXTextBookmark */;
+			2DD75392124DEE69002C353E /* PBXTextBookmark */ = 2DD75392124DEE69002C353E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2D820228124DCAFA00B37D25 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2D820220124DCAF400B37D25 /* MotionViewer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MotionViewer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2D820228124DCAFA00B37D25 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2D820229124DCAFA00B37D25 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2D8202A3124DE0AC00B37D25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MotionViewerAppDelegate.m */;
+		name = "MotionViewerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 723;
+		vrLoc = 0;
+	};
+	2D8202A4124DE0AC00B37D25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2D8202A5124DE0AC00B37D25 /* math.h */;
+		name = "math.h: 537";
+		rLen = 71;
+		rLoc = 21504;
+		rType = 0;
+		vrLen = 1258;
+		vrLoc = 20900;
+	};
+	2D8202A5124DE0AC00B37D25 /* math.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = math.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/architecture/i386/math.h;
+		sourceTree = "<absolute>";
+	};
+	2D8202A6124DE0AC00B37D25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MotionViewerViewController.h */;
+		name = "MotionViewerViewController.h: 13";
+		rLen = 1229;
+		rLoc = 306;
+		rType = 0;
+		vrLen = 996;
+		vrLoc = 36;
+	};
+	2DD75371124DEE2E002C353E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MotionViewerViewController.m */;
+		name = "MotionViewerViewController.m: 102";
+		rLen = 1;
+		rLoc = 4678;
+		rType = 0;
+		vrLen = 888;
+		vrLoc = 3838;
+	};
+	2DD75392124DEE69002C353E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MotionViewerViewController.m */;
+		name = "MotionViewerViewController.m: 102";
+		rLen = 1;
+		rLoc = 4678;
+		rType = 0;
+		vrLen = 888;
+		vrLoc = 3838;
+	};
+	8D1107310486CEB800E47090 /* MotionViewer-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{-1265, 38}, {922, 757}}";
+		};
+	};
+}
