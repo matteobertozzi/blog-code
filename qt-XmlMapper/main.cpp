@@ -10,7 +10,7 @@ static void test1 (void) {
 						"<age>21</age>"
 						"<name>Matteo</name>"
 						"<surname>Bertozzi</surname>"
-						"<website>http://th30z.netsons.org/</website>"
+						"<website>http://th30z.blogspot.com/</website>"
 					"</contact>";
 
 	TestObject obj;
@@ -25,7 +25,7 @@ static void test2 (void) {
 						"<personAge>21</personAge>"
 						"<personName>Matteo</personName>"
 						"<personSurname>Bertozzi</personSurname>"
-						"<personWeb>http://th30z.netsons.org/</personWeb>"
+						"<personWeb>http://th30z.blogspot.com/</personWeb>"
 					"</personInfo>";
 
 	THXmlHashMap dataMapping;
@@ -47,7 +47,7 @@ static void test3 (void) {
 						"<age>21</age>"
 						"<personName>Matteo</personName>"
 						"<surname>Bertozzi</surname>"
-						"<personWeb>http://th30z.netsons.org/</personWeb>"
+						"<personWeb>http://th30z.blogspot.com/</personWeb>"
 					"</personInfo>";
 
 	THXmlHashMap dataMapping;
