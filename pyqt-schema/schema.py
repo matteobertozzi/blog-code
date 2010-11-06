@@ -9,7 +9,6 @@
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 # ----------------------------------------------------------------------------
 # Author: Matteo Bertozzi <theo.bertozzi@gmail.com>
-# Site: http://th30z.netsons.org
 # ----------------------------------------------------------------------------
 
 from PyQt4.QtCore import *
